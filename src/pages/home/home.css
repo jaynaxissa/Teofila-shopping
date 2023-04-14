@@ -1,0 +1,26 @@
+.trending-banner{
+    background-color: #333334;
+    height: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.trending-word{
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 25px;
+    font-weight: 300;
+}
+
+.card-section{
+    background-color: #F0EAE0;
+}
+
+.trending-word{
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 25px;
+    font-weight: 300;
+}

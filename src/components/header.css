@@ -1,0 +1,40 @@
+.header {
+    background-color: #F0EAE0;
+    color: black;
+    display: flex;
+    height: 80px;
+    position: relative;
+    align-items: center;
+
+  }
+
+  .logo{
+    margin-left: 20px;
+    font-weight: 300;
+    width: 176px;
+  }
+
+  .logoLink{
+    text-decoration: none;
+    color: black;
+    font-size: 30px
+  }
+
+  .menu{
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: row;
+    display: flex;
+   
+  }
+
+.category-title{
+    margin: 30px;
+    font-weight: 200;
+    font-size: 12px;
+}
+
+
+.logo-left{
+    margin: 10px;
+}

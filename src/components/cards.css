@@ -1,0 +1,53 @@
+.card-wrapper {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    grid-auto-rows: minmax(100px, auto);
+  }
+
+  .card-container {
+  background-size: cover;
+  background-position: center center;
+  height: 600px;
+  width: 100%;
+    
+    /* background-color: aqua;
+    width: 357px;
+    height: 611px; */
+  }
+
+  .item-image{
+   object-fit: cover;
+    width: 352px;
+    height: 500px
+  }
+
+  .order-button{
+    box-shadow: 0 0 8px 0 rgb(90 100 105 / 16%);
+    background-color: rgb(0 0 0 / 50%);
+    color: whitesmoke;
+    cursor: pointer;
+    position: absolute;
+    display: flex;
+    padding: 8px 18px;
+    border-radius: 10px;
+    font-size: 12px;
+    margin-left: 20em;
+    /* opacity: 0; */
+  }
+
+  .addSign{
+    margin-right: 2px;
+  }
+
+  .item-description{
+    color: black;
+    margin-bottom: 10px;
+   
+  }
+
+  .item-price{
+    color: #696969;
+    font-size: 1em;
+    
+  }

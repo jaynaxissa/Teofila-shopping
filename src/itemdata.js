@@ -1,0 +1,98 @@
+export const itemData = [
+  {
+    id: 1,
+    image: "/images/pic1.jpeg",
+    desciption: "Black knitted sweater",
+    price: 80,
+  },
+  {
+    id: 2,
+    image: "/images/pic2.jpeg",
+    desciption: "Green Sweater",
+    price: 120,
+  },
+  {
+    id: 3,
+    image: "/images/pic3.jpeg",
+    desciption: "Pink Faux-fur coat",
+    price: 200,
+  },
+  {
+    id: 4,
+    image: "/images/pic4.jpeg",
+    desciption: "Amelia top in black",
+    price: 300,
+  },
+  {
+    id: 5,
+    image: "/images/pic5.jpeg",
+    desciption: "Wine red turtle neck",
+    price: 100,
+  },
+  {
+    id: 6,
+    image: "/images/pic6.jpeg",
+    desciption: "Croptop set",
+    price: 150,
+  },
+  {
+    id: 7,
+    image: "/images/pic7.jpeg",
+    desciption: "Brown leather jacket",
+    price: 100,
+  },
+  {
+    id: 8,
+    image: "/images/pic8.jpeg",
+    desciption: "Red 001 croptop",
+    price: 100,
+  },
+  {
+    id: 9,
+    image: "/images/pic9.jpeg",
+    desciption: "Blue long sleeve",
+    price: 100,
+  },
+  {
+    id: 10,
+    image: "/images/pic10.jpeg",
+    desciption: "Black circle skirt",
+    price: 80,
+  },
+  {
+    id: 11,
+    image: "/images/pic11.jpeg",
+    desciption: "Black midi dress",
+    price: 200,
+  },
+  {
+    id: 12,
+    image: "/images/pic12.jpeg",
+    desciption: "Black Faux-fur coat",
+    price: 400,
+  },
+  {
+    id: 13,
+    image: "/images/pic13.jpeg",
+    desciption: "Knitted top",
+    price: 80,
+  },
+  {
+    id: 14,
+    image: "/images/pic14.jpeg",
+    desciption: "Bright navy blue long sleeve",
+    price: 100,
+  },
+  {
+    id: 15,
+    image: "/images/pic15.jpeg",
+    desciption: "Purple Beret with coat set ",
+    price: 200,
+  },
+  {
+    id: 16,
+    image: "/images/pic16.jpeg",
+    desciption: "Dark green OHIO hoodle",
+    price: 100,
+  },
+];
